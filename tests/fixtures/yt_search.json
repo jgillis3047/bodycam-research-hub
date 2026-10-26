@@ -1,0 +1,4 @@
+{"kind":"youtube#searchListResponse","items":[
+{"kind":"youtube#searchResult","id":{"kind":"youtube#video","videoId":"vidMATCH001"}},
+{"kind":"youtube#searchResult","id":{"kind":"youtube#video","videoId":"vidOTHER002"}},
+{"kind":"youtube#searchResult","id":{"kind":"youtube#video","videoId":"vidNEWS0003"}}]}
